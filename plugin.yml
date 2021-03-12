@@ -1,0 +1,7 @@
+name: MonsterSkyblock
+main: MonsterSkyblock.MonsterSkyblock
+version: 0.01
+description: Made by Bokum
+commands:
+  bms:
+    description: bms
