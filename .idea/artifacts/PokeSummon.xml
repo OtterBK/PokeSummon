@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PokeSummon">
+    <output-path>$PROJECT_DIR$/classes/artifacts/PokeSummon</output-path>
+    <root id="archive" name="PokeSummon.jar">
+      <element id="module-output" name="[마크]1.12_포켓몬스카이블럭" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
