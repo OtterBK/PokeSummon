@@ -18,7 +18,7 @@
 
 <div align=center>
 
-#####  👉 [다운로드](https://github.com/OtterBK/Parkour/tree/master/classes/artifacts/Parkour)
+#####  👉 [다운로드](https://github.com/OtterBK/PokeSummon/tree/master/classes/artifacts/PokeSummon)
 
 </div>
 
